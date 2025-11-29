@@ -35,7 +35,7 @@
   - [Quickstart Guide](https://github.com/blacktrace-protocol/blacktrace/blob/main/docs/QUICKSTART.md) - Run BlackTrace in 5 minutes
   - [Architecture](https://github.com/blacktrace-protocol/blacktrace/blob/main/docs/ARCHITECTURE.md) - System design
 
-  ### For Developers
+  ### For Developers (Proposal only. Coming soon)
   - [Developer Guide](https://github.com/blacktrace-protocol/blacktrace/blob/main/docs/proposals/DEVELOPERS.md) - Build on BlackTrace
   - [API Reference](https://github.com/blacktrace-protocol/blacktrace/blob/main/docs/API.md) - Complete endpoint docs
   - [Adding New Chains](https://github.com/blacktrace-protocol/blacktrace/blob/main/docs/reference/CHAIN_CONNECTORS.md) - Extend to other blockchains
