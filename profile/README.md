@@ -1,6 +1,5 @@
 
   # BlackTrace Protocol
-    **Website:** [blacktrace.xyz](https://blacktrace.xyz)
 
   **Cross-chain settlement without the bridge.**
 
@@ -31,6 +30,9 @@
   ---
 
   ## Quick Links
+
+  ### Website
+  [blacktrace.xyz](https://blacktrace.xyz)
 
   ### Getting Started
   - [Quickstart Guide](https://github.com/blacktrace-protocol/blacktrace/blob/main/docs/QUICKSTART.md) - Run BlackTrace in 5 minutes
