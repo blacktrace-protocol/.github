@@ -44,7 +44,7 @@
   - [Adding New Chains](https://github.com/blacktrace-protocol/blacktrace/blob/main/docs/reference/CHAIN_CONNECTORS.md) - Extend to other blockchains
 
   ### Vision
-  - [The Quest for Private Settlement](https://github.com/blacktrace-protocol/blacktrace/blob/main/docs/vision/quest-for-private-settlement.md) - Why BlackTrace exists
+  - [The Quest for Bridgeless Settlement](https://github.com/blacktrace-protocol/blacktrace/blob/main/docs/vision/quest-for-bridgeless-settlement.md) - Why BlackTrace exists
   - [Developer Vision](https://github.com/blacktrace-protocol/blacktrace/blob/main/docs/vision/developer-vision.md) - PEXes and the future
 
   ---
