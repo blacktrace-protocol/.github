@@ -34,18 +34,21 @@
   ### Website
   [blacktrace.xyz](https://blacktrace.xyz)
 
+  ### Vision
+  - [The Quest for Bridgeless Settlement](https://github.com/blacktrace-protocol/blacktrace/blob/main/docs/vision/quest-for-bridgeless-settlement.md) - Why BlackTrace exists
+
+
   ### Getting Started
   - [Quickstart Guide](https://github.com/blacktrace-protocol/blacktrace/blob/main/docs/QUICKSTART.md) - Run BlackTrace in 5 minutes
   - [Architecture](https://github.com/blacktrace-protocol/blacktrace/blob/main/docs/ARCHITECTURE.md) - System design
 
-  ### For Developers (Proposal only. Coming soon)
+  ### For Developers (Coming soon)
+  - [Developer Vision](https://github.com/blacktrace-protocol/blacktrace/blob/main/docs/vision/developer-vision.md) - PEXes and the future
   - [Developer Guide](https://github.com/blacktrace-protocol/blacktrace/blob/main/docs/proposals/DEVELOPERS.md) - Build on BlackTrace
   - [API Reference](https://github.com/blacktrace-protocol/blacktrace/blob/main/docs/API.md) - Complete endpoint docs
   - [Adding New Chains](https://github.com/blacktrace-protocol/blacktrace/blob/main/docs/reference/CHAIN_CONNECTORS.md) - Extend to other blockchains
 
-  ### Vision
-  - [The Quest for Bridgeless Settlement](https://github.com/blacktrace-protocol/blacktrace/blob/main/docs/vision/quest-for-bridgeless-settlement.md) - Why BlackTrace exists
-  - [Developer Vision](https://github.com/blacktrace-protocol/blacktrace/blob/main/docs/vision/developer-vision.md) - PEXes and the future
+
 
   ---
 
